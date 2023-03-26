@@ -1,0 +1,1 @@
+type combinable = string | number;
